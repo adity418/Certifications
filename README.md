@@ -11,3 +11,5 @@ Python Programming-Beginner to Master Course from Udemy spent 57 Hours to comple
 Elegant Automation Frameworks with Python and Pytest Course from Udemy spent 6 Hours complete the Course.
 
 Python Django - The Practical Guide from Udemy spent 15 Hours to complete the Course.
+
+Python Data Stucture & Algorithms from Udemy spent 9.5 Hours to complete the Course.
